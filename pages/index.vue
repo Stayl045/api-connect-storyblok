@@ -7,9 +7,9 @@
       {{ data.title }}
     </h1>
     <p class="mb-5 py-4 mx-5">{{ data.description }}</p>
-    <img :src="data.image" alt="" class="w-full h-1/2 mb-5" />
+    <img :src="data.image" alt="Image of Howl" class="w-full h-1/2 mb-5" />
     <footer>
-      <p>&copy; Stephan, Taylor 2022</p>
+      <p>&copy;{{ data.footer }}</p>
     </footer>
   </section>
 </template>
