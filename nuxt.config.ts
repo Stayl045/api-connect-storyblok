@@ -5,5 +5,13 @@ export default defineNuxtConfig({
   css: [],
   components: ["~/components", "~/components/layouts", "~/components/ui"],
   buildModules: ["@nuxtjs/tailwindcss"],
-  modules: [["@storyblok/nuxt", { accessToken: "YOUR_ACCESS_TOKEN" }]],
+  modules: [
+    [
+      "@storyblok/nuxt",
+      {
+        accessToken: process.env.STORYBLOK_API_KEY,
+        cache: "memory",
+      },
+    ],
+  ],
 });
