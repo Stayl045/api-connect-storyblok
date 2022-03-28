@@ -21,7 +21,7 @@
 
   onMounted(async () => {
     data.value = await fetch(
-      "https://api.storyblok.com/v1/cdn/stories/landing-page?version=draft&token=QR8ahDmJ4nkA4AaSKCZBdQtt&cv=1648444111"
+      "https://api.storyblok.com/v1/cdn/stories/landing-page?version=draft&token=QR8ahDmJ4nkA4AaSKCZBdQtt&cv=1648483918"
     )
       .then((response) => response.json())
       .then(({ story }) => story.content);
