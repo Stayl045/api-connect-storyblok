@@ -1,5 +1,9 @@
 # CPNT 262 Achievement 8 Async Fetch: Stephan Taylor
 
+## Netlify Deployed
+
+![screencap](https://github.com/Stayl045/cpnt-262-achievement-8/blob/9aa9baccccf2a7a2a9c9d9b40022f79c00af645d/netflify-deploy.png)
+
 ## Thoughts on this Achievement
 
 - This assignment was very fun to do. It was a very satisfying feeling to fetch the api from storblok and have it work like the video described
