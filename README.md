@@ -18,10 +18,8 @@
 - I also setup my storyblok by following the guide from this [youtube](https://www.youtube.com/watch?v=-fQB8FDYLSg&list=PLpiZ2xo9RFsbXq-HUn9AtKUoVB874oKf9) tutorial. This guide really made the setup easy. However, I did not get the image to load, but I will solve that problem tomorrow (March, 28th) during lab
   - I fixed this issue I was having with the image. Turns out, I didn't save the image into image saved into the assets folder of my project. Once I did that, the image appeared on storyblok.
 
-## Not
-
 ## Attributions
 
 - [studioghiblli](https://www.ghibli.jp/works/howl/#frame&gid=1&pid=40) image
 
-[wikitext](<https://en.wikipedia.org/wiki/Howl%27s_Moving_Castle_(film)>)
+- [wikitext](<https://en.wikipedia.org/wiki/Howl%27s_Moving_Castle_(film)>)
